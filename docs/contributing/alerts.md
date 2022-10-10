@@ -1,4 +1,4 @@
-# Creating Alerts
+# Creating Alerts so that u know when ur hacking OwO
 
 Prodigy X uses [sweetalert2](https://sweetalert2.github.io/) to create alerts.
 
